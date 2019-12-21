@@ -1,5 +1,6 @@
 ###############
 # I realized later that this becomes very trivial with cut and grep, anyway here's my overkill
+# Please make sure input.txt is ending with a new line for perfect working of this code 
 ###############
 
 
