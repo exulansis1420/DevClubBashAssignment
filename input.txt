@@ -1,0 +1,6 @@
+tanishq:x:1000:1000:tanishq dubey,,,:/home/tanishq:/bin/bash
+kaenu:x:1000:1000:kaenu reeves,,,:/home/tanishq:/bin/bash
+shrek:x:1000:1000:shrek lord,,,:/home/tanishq:/bin/bash
+sponge:x:1000:1000:sponge bob,,,:/home/tanishq:/bin/bash
+noob:x:1000:1000:noob master,,,:/home/tanishq:/bin/bash
+
